@@ -9,7 +9,7 @@ This repository offers a comprehensive pipeline for downloading, processing, and
 **Mutation Visualization and Summary**
 Tailored for bioinformatics researchers, this project exemplifies best practices for managing and analyzing large-scale cancer genomics datasets effectively.
 
-**This repository demonstrates a comprehensive pipeline for downloading, processing, and analyzing TCGA (The Cancer Genome Atlas) datasets using R. With the help of powerful R packages such as TCGAbiolinks, maftools, and pheatmap, this project provides insights into gene expression, DNA methylation, and mutation data.**
+**This repository demonstrates a comprehensive pipeline for downloading, processing, and analyzing TCGA (The Cancer Genome Atlas) datasets using R. With the help of powerful R packages such as `TCGAbiolinks`, `maftools`, and `pheatmap`, this project provides insights into gene expression, DNA methylation, and mutation data.**
 
 ## Features 🌟
 **Transcriptome Profiling:** Extract and preprocess RNA-Seq data for TCGA-BRCA (Breast Cancer).
